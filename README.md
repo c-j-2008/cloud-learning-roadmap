@@ -263,3 +263,21 @@ Each phase includes goals, resources, and mandatory projects.
 - (Optional) CKA later  
 
 ---
+
+## 🤝 How to Contribute
+
+I’m a beginner learning cloud engineering and I’d love your feedback or help!  
+Here’s how you can contribute:
+
+1. **Suggestions / Feedback**  
+   - Open an **Issue** on this repo and write your advice or suggestions.
+
+2. **Edit the Roadmap**  
+   - Fork the repo  
+   - Make your changes  
+   - Create a **Pull Request** so I can review and merge them
+
+3. **Share Resources**  
+   - If you know good tutorials, videos, or guides, please suggest them in an issue.
+
+Thank you for helping me grow! 🙏
